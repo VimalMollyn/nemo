@@ -7,7 +7,6 @@ set -gx EDITOR nvim
 
 alias jpn="jupyter notebook --no-browser --port=8090"
 alias jpn2="jupyter notebook --no-browser --port=8190"
-alias smash_lab="ssh -L 8091:localhost:8091 vimal@threadripper.isri.cmu.edu"
 set -U fish_greeting
 
 
